@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 18vmin;
+}
+
+.App-header {
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+
+}
+
+
+body{
+    color: #fff;
+}
+
+a {
+    //color: #fff;
+  color: #09d3ac;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif, 'Microsoft YaHei';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: #282c34;
+}
+p {
+  font-size: .1rem;
+}
+html {
+  font-size: 10vw;
+  // 要用rem的話要定義在這裡才對，不是body
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  monospace;
+}
+
+// luna reset
+
+p{ margin: 0;}
+*{
+  box-sizing: border-box;
+}
+.app {
+  font-size: .1rem;
+  &__header{
+
+    padding: .1rem;
+    font-size: .18rem;
+
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-inline-start: 0;
+  }
+
+  &__content{
+    width: 80%;
+    margin: 0 auto;
+  }
+  &__linktit{
+    text-align: left;
+    padding: .1rem;
+
+  }
+  &__links {
+    //padding: .6rem;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: disc;
+    margin: 0;
+
+    li {
+      padding: .1rem;
+
+      width: 25%;
+      text-align: left;
+      a{
+        display: block;
+      }
+    }
+  }
+}
