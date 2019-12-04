@@ -18,14 +18,10 @@ class App extends Component {
 
   handleSearch = () =>{
     // let url = 'http://my-json-server.typicode.com/catsheue/lunalinks/links?a=1';
-    let url = 'http://localhost:3000/links/'
+    let url = 'http://localhost:3000/links/';
+	  // json-server --watch db.json
     fetch(url).then(response => response.json()).then((links) => {
 
-
-      // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
-      // google check object value in array
-      // Check if object value exists within a Javascript array of objects and if not add a new object to array
-      // https://stackoverflow.com/questions/22844560/check-if-object-value-exists-within-a-javascript-array-of-objects-and-if-not-add/22844712
 
       const add = (arr, name, source) => {
         const found = arr.some(el => el.type === name);

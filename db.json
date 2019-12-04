@@ -11,14 +11,65 @@
       "links": "https://react.rocks/"
     },
     {
+      "type": "Jobs",
+      "title": "Find front-end developer jobs (remote & on site) & learn to be a front-end developer",
+      "links": "http://frontenddeveloperjob.com/"
+    },
+    {
       "type": "Front End Developer",
       "title": "Git Tutorial | Backlog",
       "links": "https://backlog.com/git-tutorial/"
     },
     {
       "type": "Front End Developer",
+      "title": "Smashing Magazine",
+      "links": "https://backlog.com/git-tutorial/",
+      "dec": "For Web Designers And Developers"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "Smtebooks",
+      "links": "https://smtebooks.com/"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "Buy Plugins & Code from CodeCanyon",
+      "links": "https://codecanyon.net/"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "Buy Apps & Games Source Code iOS / Android - Sell My App",
+      "links": "https://www.sellmyapp.com/"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "Learn with Param",
+      "links": "https://learnwithparam.com/"
+    },
+    {
+      "type": "Front End Developer",
       "title": "webSemantics",
       "links": "https://websemantics.uk/"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "Buy Code, Scripts, Themes, Plugins and more - Codester",
+      "links": "https://www.codester.com/"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "Sellcodes - Buy & Sell Codes",
+      "links": "https://sellcodes.com/"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "Gitstore » Get paid for your work",
+      "links": "https://gitstore.app/"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "GitMarket :: The right way to sell code",
+      "links": "https://git.market/"
     },
     {
       "type": "Funny",
@@ -31,9 +82,24 @@
       "links": "https://twitter.com/"
     },
     {
+      "type": "Funny",
+      "title": "哆啦A夢中文網",
+      "links": "https://chinesedora.com/"
+    },
+    {
+      "type": "Funny",
+      "title": "LoveToKnow: Advice you can trust",
+      "links": "https://www.lovetoknow.com/"
+    },
+    {
       "type": "Front End Developer",
       "title": "Nordic APIs",
       "links": "https://nordicapis.com/"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "freeCodeCamp.org",
+      "links": "https://www.freecodecamp.org/news"
     },
     {
       "type": "Game",
@@ -42,8 +108,18 @@
     },
     {
       "type": "Game",
+      "title": "Welcome to Steam",
+      "links": "https://store.steampowered.com/"
+    },
+    {
+      "type": "Game",
       "title": "ファミ通.com / ゲーム・エンタメ最新情報",
       "links": "https://www.famitsu.com/"
+    },
+    {
+      "type": "Game",
+      "title": "Gamer Guides",
+      "links": "https://www.gamerguides.com/"
     },
     {
       "type": "Bet",
@@ -119,6 +195,16 @@
     },
     {
       "type": "Front End Developer",
+      "title": "The Modern JavaScript Tutorial",
+      "links": "https://javascript.info/"
+    },
+    {
+      "type": "Front End Developer",
+      "title": "LeetCode",
+      "links": "https://leetcode.com/"
+    },
+    {
+      "type": "Front End Developer",
       "title": "Udemy",
       "order": 0,
       "links": "https://www.udemy.com/"
@@ -130,8 +216,25 @@
     },
     {
       "type": "Front End Developer",
+      "title": "CodersHood",
+      "links": "https://www.codershood.info/",
+      "dec": "Web developement Tutorials, Articles and Free Ebooks"
+    },
+    {
+      "type": "Front End Developer",
       "title": "@nicoespeon's blog",
       "links": "https://www.nicoespeon.com/"
+    },
+    {
+      "type": "Funny",
+      "title": "IDEAS.TED.COM",
+      "links": "https://ideas.ted.com/"
+    },
+    {
+      "type": "Funny",
+      "title": "PR TIMES",
+      "links": "https://prtimes.jp/",
+      "dec": "プレスリリース・ニュースリリース配信サービス シェアNo.1"
     },
     {
       "type": "Funny",
@@ -139,9 +242,26 @@
       "links": "https://www.beautimode.com/"
     },
     {
+      "type": "Shop",
+      "title": "Fred",
+      "links": "Fun & Whimsical Products - Official Site - GenuineFred.com",
+      "dec": "Fun & Whimsical Products - Official Site - GenuineFred.com"
+    },
+    {
+      "type": "Funny",
+      "title": "MOSHI MOSHI NIPPON",
+      "links": "https://www.moshimoshi-nippon.jp/zh-hant/",
+      "dec": "もしもしにっぽん | We deliver the latest news on Japanese pop culture in English before anyone else!"
+    },
+    {
       "type": "Funny",
       "title": "新假期周刊",
       "links": "https://www.weekendhk.com"
+    },
+    {
+      "type": "Funny",
+      "title": "Bored Panda",
+      "links": "https://www.boredpanda.com/"
     },
     {
       "type": "Anime",
@@ -170,6 +290,11 @@
       "type": "Otome",
       "title": "にじめん",
       "links": "https://nijimen.net/"
+    },
+    {
+      "type": "IT",
+      "title": "JavaWorld.com",
+      "links": "https://www.javaworld.com/"
     },
     {
       "type": "IT",
@@ -205,6 +330,12 @@
       "type": "Funny",
       "title": "Zi 字媒體",
       "links": "https://zi.media/"
+    },
+    {
+      "type": "Funny",
+      "title": "UX Magazine",
+      "links": "https://uxmag.com/",
+      "dec": "Defining and Informing the Complex Field of User Experience (UX)"
     },
     {
       "type": "Novel",
