@@ -42,10 +42,16 @@ class App extends Component {
         return a;
       }, [])
 
-      // let x;
-      // for (x of sortlinks) {
-      //   x.item.sort();
-      // }
+      let x;
+
+      const sortOrder = (a, b) => {
+	     const aOrder = a.order ? a.order : -1;
+	     const bOrder = b.order ? b.order : -1;
+	     return bOrder - aOrder;
+      }
+      for (x of sortlinks) {
+	      x.item.sort(sortOrder);
+      }
       this.setState({
           links: sortlinks
       });

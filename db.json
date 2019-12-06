@@ -83,6 +83,12 @@
     },
     {
       "type": "Funny",
+      "title": "笑话网－段子",
+      "links": "https://www.xiaohua.com/",
+      "dec": "冷笑话，搞笑图片，逗趣视频，成人笑话，在线分享社区"
+    },
+    {
+      "type": "Funny",
       "title": "哆啦A夢中文網",
       "links": "https://chinesedora.com/"
     },
@@ -159,8 +165,9 @@
     {
       "type": "Front End Developer",
       "title": "Medium",
-      "links": "https://overflowjs.com/",
-      "dec": "Get smarter about what matters to you."
+      "links": "https://medium.com/",
+      "dec": "Get smarter about what matters to you.",
+      "order": 2
     },
     {
       "type": "Front End Developer",
@@ -206,7 +213,7 @@
     {
       "type": "Front End Developer",
       "title": "Udemy",
-      "order": 0,
+      "order": 1,
       "links": "https://www.udemy.com/"
     },
     {
