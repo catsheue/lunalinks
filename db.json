@@ -278,6 +278,11 @@
     },
     {
       "type": "Anime",
+      "title": "Anime News Network",
+      "links": "https://www.animenewsnetwork.com/"
+    },
+    {
+      "type": "Anime",
       "title": "アニメハック",
       "links": "https://webnewtype.com/",
       "description": "最新アニメ・イベント情報、番組表まで！"

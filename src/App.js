@@ -17,8 +17,8 @@ class App extends Component {
 	}
 
   handleSearch = () =>{
-    // let url = 'http://my-json-server.typicode.com/catsheue/lunalinks/links?a=1';
-    let url = 'http://localhost:3000/links/';
+    let url = 'http://my-json-server.typicode.com/catsheue/lunalinks/links?a=1';
+    // let url = 'http://localhost:3000/links/';
 	  // json-server --watch db.json
     fetch(url).then(response => response.json()).then((links) => {
 
