@@ -22,14 +22,31 @@ const obj =  [
       {
         "type": "Front End Developer",
         "title": "Smashing Magazine",
-        "links": "https://backlog.com/git-tutorial/",
+        "links": "https://www.smashingmagazine.com/",
         "description": "For Web Designers And Developers"
       },
+			{
+				"type": "Front End Developer",
+				"title": "KendoReact",
+				"links": "https://www.telerik.com/kendo-react-ui/",
+				"description": "React UI Component Library"
+			},
       {
         "type": "Front End Developer",
         "title": "Smtebooks",
         "links": "https://smtebooks.com/"
       },
+			{
+				"type": "Front End Developer",
+				"title": "ApexCharts.js",
+				"links": "https://apexcharts.com/",
+				"description": "Open Source JavaScript Charts for your website"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "React 360 · Create amazing 360 experiences",
+				"links": "https://facebook.github.io/react-360/"
+			},
       {
         "type": "Front End Developer",
         "title": "Buy Plugins & Code from CodeCanyon",
@@ -80,12 +97,35 @@ const obj =  [
         "title": "Twitter",
         "links": "https://twitter.com/"
       },
+			{
+				"type": "Funny",
+				"title": "Career-Picks",
+				"links": "https://career-picks.com/",
+				"description": "あなたに合った転職サイト・転職エージェントが分かる"
+			},
+			{
+				"type": "Funny",
+				"title": "ビーズログ.com",
+				"links": "https://www.bs-log.com/",
+				"description": "乙女のためのゲームエンタメ最強Webサイト"
+			},
       {
         "type": "Funny",
         "title": "笑话网－段子",
         "links": "https://www.xiaohua.com/",
         "description": "冷笑话，搞笑图片，逗趣视频，成人笑话，在线分享社区"
       },
+			{
+				"type": "Funny",
+				"title": "FanPiece",
+				"links": "https://www.fanpiece.com/",
+				"description": "開放式網上雜誌"
+			},
+			{
+				"type": "Funny",
+				"title": "Edu8 Japan 跨境學習 全日本學校博覽會",
+				"links": "http://www.edu8japan.com/"
+			},
       {
         "type": "Funny",
         "title": "哆啦A夢中文網",
@@ -349,11 +389,15 @@ const obj =  [
         "links": "https://uxmag.com/",
         "description": "Defining and Informing the Complex Field of User Experience (UX)"
       },
+			{
+				"type": "Funny",
+				"title": "Virgin",
+				"links": "https://www.virgin.com/",
+			},
       {
         "type": "Novel",
         "title": "讀創故事",
         "links": "https://story.udn.com/dcstore/Index.do"
-      }
+      },
     ];
   export default obj;
-  
