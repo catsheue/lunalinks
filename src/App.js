@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.scss';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import linksObj from "./assets/db.js";
 // http://my-json-server.typicode.com/catsheue/lunalinks/links/1
 
@@ -16,7 +17,6 @@ class App extends Component {
 	}
 
 	renderLinks = () => {
-
     const links = linksObj;
 		const add = (arr, name, source) => {
 			const found = arr.some(el => el.type === name);
@@ -54,7 +54,7 @@ class App extends Component {
 
   render () {
     const { links } = this.state;
-    return (
+	  return (
       <div className="App app">
         <header className="app__header">
           <h1>LunaLinks</h1>

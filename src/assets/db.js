@@ -19,6 +19,49 @@ const obj =  [
         "title": "Git Tutorial | Backlog",
         "links": "https://backlog.com/git-tutorial/"
       },
+			{
+				"type": "Front End Developer",
+				"title": "Duomly - Programming courses online",
+				"links": "https://www.duomly.com/"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "React Hook Form - Simple React forms validation",
+				"links": "https://react-hook-form.com/"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "Mobiscroll",
+				"links": "https://mobiscroll.com/",
+				"description": "Cross platform UI for progressive web and hybrid apps"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "Sabe.io",
+				"links": "https://sabe.io/",
+				"description": "Learn Web Development with free Classes and Tutorials"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "Techiediaries",
+				"links": "https://www.techiediaries.com/"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "Techiediaries",
+				"links": "https://www.techiediaries.com/"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "positronX.io",
+				"links": "https://www.positronx.io/",
+				"description": "Learn Full Stack Development"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "Latest Programming Help topics - The freeCodeCamp Forum",
+				"links": "https://www.freecodecamp.org/forum/c/help"
+			},
       {
         "type": "Front End Developer",
         "title": "Smashing Magazine",
@@ -108,6 +151,11 @@ const obj =  [
 				"title": "ビーズログ.com",
 				"links": "https://www.bs-log.com/",
 				"description": "乙女のためのゲームエンタメ最強Webサイト"
+			},
+			{
+				"type": "Funny",
+				"title": "好玩",
+				"links": "https://www.mrplayer.tw/"
 			},
       {
         "type": "Funny",
