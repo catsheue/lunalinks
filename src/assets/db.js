@@ -14,11 +14,32 @@ const obj =  [
         "title": "Find front-end developer jobs (remote & on site) & learn to be a front-end developer",
         "links": "http://frontenddeveloperjob.com/"
       },
+			{
+				"type": "News",
+				"title": "CNN International",
+				"links": "https://edition.cnn.com/",
+				"description": "Breaking News, US News, World News and Video"
+			},
+			{
+				"type": "News",
+				"title": "RTL Today",
+				"links": "https://today.rtl.lu/"
+			},
+			{
+				"type": "News",
+				"title": "芋傳媒 TaroNews",
+				"links": "https://taronews.tw/"
+			},
       {
         "type": "Front End Developer",
         "title": "Git Tutorial | Backlog",
         "links": "https://backlog.com/git-tutorial/"
       },
+			{
+				"type": "Language",
+				"title": "xyz線上翻譯",
+				"links": "https://tw.xyzdict.com/"
+			},
 			{
 				"type": "Front End Developer",
 				"title": "Duomly - Programming courses online",
@@ -135,11 +156,22 @@ const obj =  [
         "title": "BU UP -Beauty Upgrade",
         "links": "https://beauty-upgrade.tw/"
       },
+			{
+				"type": "Funny",
+				"title": "GirlStyle",
+				"links": "https://beauty-upgrade.tw/",
+				"description": "台灣女生日常 | 妳的每個日常，都是台灣女生日常"
+			},
       {
         "type": "Funny",
         "title": "Twitter",
         "links": "https://twitter.com/"
       },
+			{
+				"type": "Funny",
+				"title": "太報",
+				"links": "https://www.taisounds.com/w/TaiSounds/index"
+			},
 			{
 				"type": "Funny",
 				"title": "Career-Picks",
@@ -447,5 +479,10 @@ const obj =  [
         "title": "讀創故事",
         "links": "https://story.udn.com/dcstore/Index.do"
       },
+			{
+				"type": "News",
+				"title": "聯合新聞網：觸動未來 新識力",
+				"links": "https://udn.com/news/index"
+			},
     ];
   export default obj;
