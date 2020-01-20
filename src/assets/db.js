@@ -5,9 +5,24 @@ const obj =  [
         "links": "http://adripofjavascript.com/"
       },
       {
+        "type": "Funny",
+        "title": "運動筆記",
+        "links": "https://running.biji.co/"
+      },
+      {
         "type": "Front End Developer",
         "title": "Latest ReactJS Examples",
         "links": "https://react.rocks/"
+      },
+      {
+        "type": "Front End Developer",
+        "title": "airpair",
+        "links": "https://www.airpair.com/"
+      },
+      {
+        "type": "Front End Developer",
+        "title": "Web Designer Wall",
+        "links": "https://webdesignerwall.com/"
       },
       {
         "type": "Jobs",
@@ -117,6 +132,17 @@ const obj =  [
       },
       {
         "type": "Front End Developer",
+        "title": "Webdesigner Depot",
+        "links": "https://www.webdesignerdepot.com/"
+      },
+      {
+        "type": "News",
+        "title": "CNBC",
+        "links": "https://www.cnbc.com/world/",
+        "description": "International Business, World News & Global Stock Market Analysis"
+      },
+      {
+        "type": "Front End Developer",
         "title": "Sellcodes - Buy & Sell Codes",
         "links": "https://sellcodes.com/"
       },
@@ -139,6 +165,11 @@ const obj =  [
         "type": "Funny",
         "title": "Twitter",
         "links": "https://twitter.com/"
+      },
+      {
+        "type": "Funny",
+        "title": "The Art of Manliness",
+        "links": "https://www.artofmanliness.com/"
       },
 			{
 				"type": "Funny",
@@ -314,6 +345,11 @@ const obj =  [
         "title": "CodersHood",
         "links": "https://www.codershood.info/",
         "description": "Web developement Tutorials, Articles and Free Ebooks"
+      },
+      {
+        "type": "Front End Developer",
+        "title": "@nicoespeon's blog",
+        "links": "https://www.nicoespeon.com/"
       },
       {
         "type": "Front End Developer",
