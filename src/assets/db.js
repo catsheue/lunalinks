@@ -34,6 +34,39 @@ const obj =  [
 				"title": "CNN International",
 				"links": "https://edition.cnn.com/",
 				"description": "Breaking News, US News, World News and Video"
+      },
+      {
+				"type": "News",
+				"title": "The Jakarta Post",
+				"links": "https://www.thejakartapost.com/",
+				"description": "Always Bold. Always Independent"
+      },
+      {
+				"type": "News",
+				"title": "The Straits Times",
+				"links": "https://www.straitstimes.com/global",
+				"description": "Breaking News, Lifestyle & Multimedia News"
+      },
+      {
+				"type": "News",
+				"title": "法國國際廣播電台",
+				"links": "http://www.rfi.fr/tw/"
+      },
+      {
+				"type": "News",
+				"title": "Associated Press News",
+				"links": "https://apnews.com/"
+      },
+      {
+				"type": "News",
+				"title": "新唐人中文電視台在線",
+				"links": "https://www.ntdtv.com/b5/"
+      },
+      {
+				"type": "News",
+				"title": "The Straits Times",
+				"links": "https://www.straitstimes.com/global",
+				"description": "Breaking News, Lifestyle & Multimedia News"
 			},
 			{
 				"type": "News",
@@ -493,6 +526,11 @@ const obj =  [
         "type": "Funny",
         "title": "食力foodNEXT‧食事求實的知識頻道",
         "links": "https://www.foodnext.net/"
+      },
+      {
+        "type": "Funny",
+        "title": "柯夢波丹 COSMOPOLITAN Taiwan",
+        "links": "https://www.cosmopolitan.com/tw/"
       },
       {
         "type": "Funny",
