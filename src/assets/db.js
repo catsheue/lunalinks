@@ -5,6 +5,11 @@ const obj =  [
         "links": "http://adripofjavascript.com/"
       },
       {
+        "type": "Funny",
+        "title": "運動筆記",
+        "links": "https://running.biji.co/"
+      },
+      {
         "type": "Front End Developer",
         "title": "Latest ReactJS Examples",
         "links": "https://react.rocks/"
@@ -15,6 +20,16 @@ const obj =  [
 				"links": "https://exploringjs.com/impatient-js/toc.html"
 			},
       {
+        "type": "Front End Developer",
+        "title": "airpair",
+        "links": "https://www.airpair.com/"
+      },
+      {
+        "type": "Front End Developer",
+        "title": "Web Designer Wall",
+        "links": "https://webdesignerwall.com/"
+      },
+      {
         "type": "Jobs",
         "title": "Find front-end developer jobs (remote & on site) & learn to be a front-end developer",
         "links": "http://frontenddeveloperjob.com/"
@@ -24,6 +39,39 @@ const obj =  [
 				"title": "CNN International",
 				"links": "https://edition.cnn.com/",
 				"description": "Breaking News, US News, World News and Video"
+      },
+      {
+				"type": "News",
+				"title": "The Jakarta Post",
+				"links": "https://www.thejakartapost.com/",
+				"description": "Always Bold. Always Independent"
+      },
+      {
+				"type": "News",
+				"title": "The Straits Times",
+				"links": "https://www.straitstimes.com/global",
+				"description": "Breaking News, Lifestyle & Multimedia News"
+      },
+      {
+				"type": "News",
+				"title": "法國國際廣播電台",
+				"links": "http://www.rfi.fr/tw/"
+      },
+      {
+				"type": "News",
+				"title": "Associated Press News",
+				"links": "https://apnews.com/"
+      },
+      {
+				"type": "News",
+				"title": "新唐人中文電視台在線",
+				"links": "https://www.ntdtv.com/b5/"
+      },
+      {
+				"type": "News",
+				"title": "The Straits Times",
+				"links": "https://www.straitstimes.com/global",
+				"description": "Breaking News, Lifestyle & Multimedia News"
 			},
 			{
 				"type": "News",
@@ -158,6 +206,17 @@ const obj =  [
       },
       {
         "type": "Front End Developer",
+        "title": "Webdesigner Depot",
+        "links": "https://www.webdesignerdepot.com/"
+      },
+      {
+        "type": "News",
+        "title": "CNBC",
+        "links": "https://www.cnbc.com/world/",
+        "description": "International Business, World News & Global Stock Market Analysis"
+      },
+      {
+        "type": "Front End Developer",
         "title": "Sellcodes - Buy & Sell Codes",
         "links": "https://sellcodes.com/"
       },
@@ -201,6 +260,11 @@ const obj =  [
         "type": "Funny",
         "title": "Twitter",
         "links": "https://twitter.com/"
+      },
+      {
+        "type": "Funny",
+        "title": "The Art of Manliness",
+        "links": "https://www.artofmanliness.com/"
       },
 			{
 				"type": "Funny",
@@ -399,6 +463,11 @@ const obj =  [
         "links": "https://www.nicoespeon.com/"
       },
       {
+        "type": "Front End Developer",
+        "title": "@nicoespeon's blog",
+        "links": "https://www.nicoespeon.com/"
+      },
+      {
         "type": "Funny",
         "title": "IDEAS.TED.COM",
         "links": "https://ideas.ted.com/"
@@ -503,6 +572,11 @@ const obj =  [
         "type": "Funny",
         "title": "食力foodNEXT‧食事求實的知識頻道",
         "links": "https://www.foodnext.net/"
+      },
+      {
+        "type": "Funny",
+        "title": "柯夢波丹 COSMOPOLITAN Taiwan",
+        "links": "https://www.cosmopolitan.com/tw/"
       },
       {
         "type": "Funny",
