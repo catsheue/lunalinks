@@ -9,6 +9,11 @@ const obj =  [
         "title": "Latest ReactJS Examples",
         "links": "https://react.rocks/"
       },
+			{
+				"type": "Front End Developer",
+				"title": "JavaScript for impatient programmers",
+				"links": "https://exploringjs.com/impatient-js/toc.html"
+			},
       {
         "type": "Jobs",
         "title": "Find front-end developer jobs (remote & on site) & learn to be a front-end developer",
@@ -24,6 +29,21 @@ const obj =  [
 				"type": "News",
 				"title": "RTL Today",
 				"links": "https://today.rtl.lu/"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "Code with Dan Blog",
+				"links": "https://blog.codewithdan.com/"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "Ordina JWorks Tech Blog",
+				"links": "https://ordina-jworks.github.io/"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "RapidAPI",
+				"links": "https://rapidapi.com/blog/"
 			},
 			{
 				"type": "News",
@@ -141,6 +161,11 @@ const obj =  [
         "title": "Sellcodes - Buy & Sell Codes",
         "links": "https://sellcodes.com/"
       },
+			{
+				"type": "Front End Developer",
+				"title": "ThatSoftwareDude.com",
+				"links": "https://www.thatsoftwaredude.com/"
+			},
       {
         "type": "Front End Developer",
         "title": "Gitstore » Get paid for your work",
@@ -156,6 +181,16 @@ const obj =  [
         "title": "BU UP -Beauty Upgrade",
         "links": "https://beauty-upgrade.tw/"
       },
+			{
+				"type": "Funny",
+				"title": "Kickstarter",
+				"links": "https://www.kickstarter.com/?ref=nav"
+			},
+			{
+				"type": "Funny",
+				"title": "Paradise Toy",
+				"links": "https://www.paradisetoyland.com/index"
+			},
 			{
 				"type": "Funny",
 				"title": "GirlStyle",
@@ -186,6 +221,11 @@ const obj =  [
 			},
 			{
 				"type": "Funny",
+				"title": "StockFeel 股感",
+				"links": "https://www.stockfeel.com.tw/"
+			},
+			{
+				"type": "Funny",
 				"title": "好玩",
 				"links": "https://www.mrplayer.tw/"
 			},
@@ -195,6 +235,12 @@ const obj =  [
         "links": "https://www.xiaohua.com/",
         "description": "冷笑话，搞笑图片，逗趣视频，成人笑话，在线分享社区"
       },
+			{
+				"type": "Funny",
+				"title": "plain-me",
+				"links": "https://www.plain-me.com/index.asp",
+				"description": "plain-me | 搭配美好的一天 | 品牌服裝第一站"
+			},
 			{
 				"type": "Funny",
 				"title": "FanPiece",
@@ -483,6 +529,34 @@ const obj =  [
 				"type": "News",
 				"title": "聯合新聞網：觸動未來 新識力",
 				"links": "https://udn.com/news/index"
+			},
+			{
+				"type": "News",
+				"title": "The New York Times",
+				"links": "https://www.nytimes.com/",
+				"description": "Breaking News, World News & Multimedia"
+			},
+			{
+				"type": "News",
+				"title": "Foreign Policy",
+				"links": "https://foreignpolicy.com/",
+				"description": "the Global Magazine of News and Ideas"
+			},
+			{
+				"type": "News",
+				"title": "CNBC",
+				"links": "https://www.cnbc.com/world/",
+				"description": "International Business, World News & Global Stock Market Analysis"
+			},
+			{
+				"type": "News",
+				"title": "BBC News",
+				"links": "https://www.bbc.com/news"
+			},
+			{
+				"type": "News",
+				"title": "Associated Press News",
+				"links": "https://apnews.com/"
 			},
     ];
   export default obj;
