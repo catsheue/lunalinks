@@ -126,6 +126,12 @@ const obj =  [
 			},
 			{
 				"type": "Front End Developer",
+				"title": "React < Jobs />",
+				"links": "https://www.react-jobs.com/",
+				"description": "ReactJS jobs in Taipei, Taiwan"
+			},
+			{
+				"type": "Front End Developer",
 				"title": "Sabe.io",
 				"links": "https://sabe.io/",
 				"description": "Learn Web Development with free Classes and Tutorials"
@@ -252,9 +258,32 @@ const obj =  [
 			},
 			{
 				"type": "Funny",
+				"title": "MEME",
+				"links": "https://me.me/",
+				"description": "Search All the Funny Memes & Meme Generator"
+			},
+			{
+				"type": "Funny",
+				"title": "Funny Memes",
+				"links": "https://thechive.com/category/humor/meme/",
+				"description": "The Funniest and Most Hilarious Memes Ever - theCHIVE"
+			},
+			{
+				"type": "Funny",
+				"title": "9GAG",
+				"links": "https://9gag.com/",
+				"description": "Go Fun The World"
+			},
+			{
+				"type": "Funny",
 				"title": "GirlStyle",
 				"links": "https://beauty-upgrade.tw/",
 				"description": "台灣女生日常 | 妳的每個日常，都是台灣女生日常"
+			},
+			{
+				"type": "Funny",
+				"title": "培養meme",
+				"links": "https://cultivatememe.moe/"
 			},
       {
         "type": "Funny",
