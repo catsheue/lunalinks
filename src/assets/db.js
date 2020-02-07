@@ -212,14 +212,25 @@ const obj =  [
       },
       {
         "type": "Funny",
+        "title": "MEME",
+        "links": "https://me.me/"
+      },
+      {
+        "type": "Funny",
         "title": "BU UP -Beauty Upgrade",
         "links": "https://beauty-upgrade.tw/"
       },
 			{
 				"type": "Funny",
 				"title": "GirlStyle",
-				"links": "https://beauty-upgrade.tw/",
+				"links": "https://girlstyle.com/tw",
 				"description": "台灣女生日常 | 妳的每個日常，都是台灣女生日常"
+      },
+      {
+				"type": "Funny",
+				"title": "liveabout",
+				"links": "https://www.liveabout.com/",
+				"description": "Fresh Entertainment, Hobbies, Sports and Humor"
 			},
       {
         "type": "Funny",
@@ -358,6 +369,12 @@ const obj =  [
         "title": "clubmate.fi",
         "links": "https://clubmate.fi/",
         "description": "About frontend web development"
+      },
+      {
+        "type": "Front End Developer",
+        "title": "Pusher",
+        "links": "https://pusher.com/",
+        "description": " | Leader In Realtime Technologies"
       },
       {
         "type": "Front End Developer",
