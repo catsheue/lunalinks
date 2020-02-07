@@ -14,6 +14,11 @@ const obj =  [
         "title": "Latest ReactJS Examples",
         "links": "https://react.rocks/"
       },
+			{
+				"type": "Front End Developer",
+				"title": "JavaScript for impatient programmers",
+				"links": "https://exploringjs.com/impatient-js/toc.html"
+			},
       {
         "type": "Front End Developer",
         "title": "airpair",
@@ -74,6 +79,21 @@ const obj =  [
 				"links": "https://today.rtl.lu/"
 			},
 			{
+				"type": "Front End Developer",
+				"title": "Code with Dan Blog",
+				"links": "https://blog.codewithdan.com/"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "Ordina JWorks Tech Blog",
+				"links": "https://ordina-jworks.github.io/"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "RapidAPI",
+				"links": "https://rapidapi.com/blog/"
+			},
+			{
 				"type": "News",
 				"title": "芋傳媒 TaroNews",
 				"links": "https://taronews.tw/"
@@ -103,6 +123,12 @@ const obj =  [
 				"title": "Mobiscroll",
 				"links": "https://mobiscroll.com/",
 				"description": "Cross platform UI for progressive web and hybrid apps"
+			},
+			{
+				"type": "Front End Developer",
+				"title": "React < Jobs />",
+				"links": "https://www.react-jobs.com/",
+				"description": "ReactJS jobs in Taipei, Taiwan"
 			},
 			{
 				"type": "Front End Developer",
@@ -200,6 +226,11 @@ const obj =  [
         "title": "Sellcodes - Buy & Sell Codes",
         "links": "https://sellcodes.com/"
       },
+			{
+				"type": "Front End Developer",
+				"title": "ThatSoftwareDude.com",
+				"links": "https://www.thatsoftwaredude.com/"
+			},
       {
         "type": "Front End Developer",
         "title": "Gitstore » Get paid for your work",
@@ -222,6 +253,34 @@ const obj =  [
       },
 			{
 				"type": "Funny",
+				"title": "Kickstarter",
+				"links": "https://www.kickstarter.com/?ref=nav"
+			},
+			{
+				"type": "Funny",
+				"title": "Paradise Toy",
+				"links": "https://www.paradisetoyland.com/index"
+			},
+			{
+				"type": "Funny",
+				"title": "MEME",
+				"links": "https://me.me/",
+				"description": "Search All the Funny Memes & Meme Generator"
+			},
+			{
+				"type": "Funny",
+				"title": "Funny Memes",
+				"links": "https://thechive.com/category/humor/meme/",
+				"description": "The Funniest and Most Hilarious Memes Ever - theCHIVE"
+			},
+			{
+				"type": "Funny",
+				"title": "9GAG",
+				"links": "https://9gag.com/",
+				"description": "Go Fun The World"
+			},
+			{
+				"type": "Funny",
 				"title": "GirlStyle",
 				"links": "https://girlstyle.com/tw",
 				"description": "台灣女生日常 | 妳的每個日常，都是台灣女生日常"
@@ -231,6 +290,11 @@ const obj =  [
 				"title": "liveabout",
 				"links": "https://www.liveabout.com/",
 				"description": "Fresh Entertainment, Hobbies, Sports and Humor"
+			},
+			{
+				"type": "Funny",
+				"title": "培養meme",
+				"links": "https://cultivatememe.moe/"
 			},
       {
         "type": "Funny",
@@ -261,6 +325,11 @@ const obj =  [
 			},
 			{
 				"type": "Funny",
+				"title": "StockFeel 股感",
+				"links": "https://www.stockfeel.com.tw/"
+			},
+			{
+				"type": "Funny",
 				"title": "好玩",
 				"links": "https://www.mrplayer.tw/"
 			},
@@ -270,6 +339,12 @@ const obj =  [
         "links": "https://www.xiaohua.com/",
         "description": "冷笑话，搞笑图片，逗趣视频，成人笑话，在线分享社区"
       },
+			{
+				"type": "Funny",
+				"title": "plain-me",
+				"links": "https://www.plain-me.com/index.asp",
+				"description": "plain-me | 搭配美好的一天 | 品牌服裝第一站"
+			},
 			{
 				"type": "Funny",
 				"title": "FanPiece",
@@ -574,6 +649,34 @@ const obj =  [
 				"type": "News",
 				"title": "聯合新聞網：觸動未來 新識力",
 				"links": "https://udn.com/news/index"
+			},
+			{
+				"type": "News",
+				"title": "The New York Times",
+				"links": "https://www.nytimes.com/",
+				"description": "Breaking News, World News & Multimedia"
+			},
+			{
+				"type": "News",
+				"title": "Foreign Policy",
+				"links": "https://foreignpolicy.com/",
+				"description": "the Global Magazine of News and Ideas"
+			},
+			{
+				"type": "News",
+				"title": "CNBC",
+				"links": "https://www.cnbc.com/world/",
+				"description": "International Business, World News & Global Stock Market Analysis"
+			},
+			{
+				"type": "News",
+				"title": "BBC News",
+				"links": "https://www.bbc.com/news"
+			},
+			{
+				"type": "News",
+				"title": "Associated Press News",
+				"links": "https://apnews.com/"
 			},
     ];
   export default obj;
