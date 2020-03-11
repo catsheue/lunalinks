@@ -16,6 +16,11 @@ const obj = [
   },
 	{
 		"type": "Front End Developer",
+		"title": "Google Fonts",
+		"links": "https://fonts.google.com/"
+	},
+	{
+		"type": "Front End Developer",
 		"title": "JavaScript for impatient programmers",
 		"links": "https://exploringjs.com/impatient-js/toc.html"
 	},
@@ -25,10 +30,44 @@ const obj = [
     "links": "https://www.airpair.com/"
   },
 	{
+		"type": "Funny",
+		"title": "美食筆記",
+		"links": "http://www.cooker01.com/"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "trekhleb/state-of-the-art-shitcode",
+		"links": "https://github.com/trekhleb/state-of-the-art-shitcode",
+		"description": "💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Welcome to Codota!",
+		"links": "https://www.codota.com/code/javascript"
+	},
+	{
 		"type": "Front End Developer",
 		"title": "devRant",
 		"links": "https://devrant.com/feed",
 		"description": "A fun community for developers to connect over code, tech & life as a programmer"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Codewars",
+		"links": "https://www.codewars.com/",
+		"description": "Train with Programming Challenges/Kata"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "shitcode",
+		"links": "https://shitcode.net/",
+		"description": "home of shitty code"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "fbeline/design-patterns-JS:",
+		"links": "https://github.com/fbeline/design-patterns-JS",
+		"description": " All the 23 (GoF) design patterns implemented in Javascript"
 	},
 	{
 		"type": "Management",
@@ -52,6 +91,54 @@ const obj = [
 		"title": "Visual Paradigm",
 		"links": "https://online.visual-paradigm.com/diagrams/",
 		"description": "Online Diagram Software & Chart Solution"
+	},
+	{
+		"type": "JavaScript Charts",
+		"title": "FusionCharts",
+		"links": "https://www.fusioncharts.com/",
+		"description": "JavaScript charts for web & mobile"
+	},
+	{
+		"type": "JavaScript Charts",
+		"title": "Chartist",
+		"links": "https://gionkunz.github.io/chartist-js/",
+		"description": "Simple responsive charts"
+	},
+	{
+		"type": "JavaScript Charts",
+		"title": "ChartBlocks",
+		"links": "https://www.chartblocks.com/en/",
+		"description": "Online Chart Builder"
+	},
+	{
+		"type": "JavaScript Charts",
+		"title": "Datawrapper",
+		"links": "https://www.datawrapper.de/",
+		"description": "Create charts and maps with Datawrapper"
+	},
+	{
+		"type": "JavaScript Charts",
+		"title": "ZingChart",
+		"links": "https://www.zingchart.com/",
+		"description": "JavaScript Charts in one powerful declarative library"
+	},
+	{
+		"type": "Charts",
+		"title": "Charts",
+		"links": "https://developers.google.com/chart",
+		"description": "Google Developers"
+	},
+	{
+		"type": "Charts",
+		"title": "Chart.js",
+		"links": "https://www.chartjs.org/",
+		"description": "Open source HTML5 Charts for your website"
+	},
+	{
+		"type": "Charts",
+		"title": "TradingView",
+		"links": "https://www.tradingview.com/",
+		"description": "Free Stock Charts, Stock Quotes and Trade Ideas"
 	},
 	{
 		"type": "Charts",
@@ -135,9 +222,40 @@ const obj = [
   },
   {
     "type": "Jobs",
-    "title": "Find front-end developer jobs (remote & on site) & learn to be a front-end developer",
-    "links": "http://frontenddeveloperjob.com/"
+    "title": "Find front-end developer jobs",
+    "links": "http://frontenddeveloperjob.com/",
+	  "description": "(remote & on site) & learn to be a front-end developer"
   },
+	{
+		"type": "Jobs",
+		"title": "Front End Remote Jobs",
+		"links": "https://frontendremotejobs.com/",
+		"description": ""
+	},
+	{
+		"type": "Jobs",
+		"title": "Remote Front End Jobs in February 2020",
+		"links": "https://remoteok.io/remote-front-end-jobs",
+		"description": ""
+	},
+	{
+		"type": "Jobs",
+		"title": "Remote Developer Jobs - Remote.co",
+		"links": "https://remote.co/remote-jobs/developer/",
+		"description": ""
+	},
+	{
+		"type": "Jobs",
+		"title": "Working Nomads",
+		"links": "https://www.workingnomads.co/remote-front-end-jobs",
+		"description": "Remote Front End Developer Jobs"
+	},
+	{
+		"type": "Jobs",
+		"title": "Remote Programming Jobs",
+		"links": "https://weworkremotely.com/categories/remote-programming-jobs",
+		"description": ""
+	},
 	{
 		"type": "News",
 		"title": "CNN International",
@@ -683,6 +801,12 @@ const obj = [
     "links": "https://www.shangc.net/",
     "description": " 前沿时尚生活资讯 娱乐明星八卦最新动态"
   },
+	{
+		"type": "Music",
+		"title": "OnlineRadioBox.com",
+		"links": "https://onlineradiobox.com/",
+		"description": "Free Internet Radio Stations - best Japan music and talk stations at Online Radio Box"
+	},
   {
     "type": "Otome",
     "title": "にじめん",

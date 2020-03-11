@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.scss';
-// import 'bootstrap/dist/css/bootstrap.min.css';
 import linksObj from "./assets/db.js";
+
 // http://my-json-server.typicode.com/catsheue/lunalinks/links/1
 
 
@@ -24,7 +24,6 @@ class App extends Component {
 				arr.push({ type: name, item: []})
 				const index = arr.findIndex(fruit => fruit.type === name);
 				arr[index].item.push({...source});
-
 			} else{
 				const index = arr.findIndex(fruit => fruit.type === name);
 				arr[index].item.push({...source});
