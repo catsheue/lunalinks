@@ -36,7 +36,7 @@ const obj = [
 	},
 	{
 		"type": "Front End Developer",
-		"title": "trekhleb/state-of-the-art-shitcode",
+		"title": "trekhleb/state-of-thMoriohe-art-shitcode",
 		"links": "https://github.com/trekhleb/state-of-the-art-shitcode",
 		"description": "💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode"
 	},
@@ -50,6 +50,24 @@ const obj = [
 		"title": "devRant",
 		"links": "https://devrant.com/feed",
 		"description": "A fun community for developers to connect over code, tech & life as a programmer"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "StackBlitz",
+		"links": "https://stackblitz.com/",
+		"description": "The online code editor for web apps. Powered by Visual Studio Code."
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Morioh",
+		"links": "https://morioh.com/",
+		"description": " Connecting with Programmers and Developers all over the World"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Reactgo",
+		"links": "https://reactgo.com/",
+		"description": "A place to improve your Modern JavaScript Skills"
 	},
 	{
 		"type": "Front End Developer",
