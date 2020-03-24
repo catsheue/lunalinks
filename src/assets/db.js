@@ -42,6 +42,34 @@ const obj = [
 	},
 	{
 		"type": "Front End Developer",
+		"title": "PlayCode",
+		"links": "https://playcode.io/",
+		"description": "Code Sandbox. Online Code Editor"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Michael Page",
+		"links": "https://www.michaelpage.com.tw/zh",
+		"description": "工作、求職建議和招聘服務 - 米高蒲志 - 台灣"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "NodeSchool",
+		"links": "https://nodeschool.io/zh-tw/",
+	},
+	{
+		"type": "Front End Developer",
+		"title": "FullCalendar",
+		"links": "https://fullcalendar.io/",
+		"description": "JavaScript Event Calendar"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Socket.IO",
+		"links": "https://socket.io/"
+	},
+	{
+		"type": "Front End Developer",
 		"title": "Welcome to Codota!",
 		"links": "https://www.codota.com/code/javascript"
 	},
