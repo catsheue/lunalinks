@@ -42,9 +42,44 @@ const obj = [
 	},
 	{
 		"type": "Front End Developer",
+		"title": "DeveloperHandbook",
+		"links": "https://developerhandbook.com/",
+		"description": "Learn to write front-end code like a pro"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Tania Rascia",
+		"links": "https://www.taniarascia.com/",
+		"description": "Full Stack Software Developer"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Swagger",
+		"links": "https://swagger.io/",
+		"description": "The Best APIs are Built with Swagger Tools"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Dmitri Pavlutin Blog",
+		"links": "https://dmitripavlutin.com/",
+		"description": ""
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Discover gists",
+		"links": "https://gist.github.com/discover",
+		"description": ""
+	},
+	{
+		"type": "Front End Developer",
 		"title": "PlayCode",
 		"links": "https://playcode.io/",
 		"description": "Code Sandbox. Online Code Editor"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "SamanthaMing",
+		"links": "SamanthaMing.com"
 	},
 	{
 		"type": "Front End Developer",
@@ -508,11 +543,6 @@ const obj = [
     "type": "Front End Developer",
     "title": "GitMarket :: The right way to sell code",
     "links": "https://git.market/"
-  },
-  {
-    "type": "Funny",
-    "title": "MEME",
-    "links": "https://me.me/"
   },
   {
     "type": "Funny",
