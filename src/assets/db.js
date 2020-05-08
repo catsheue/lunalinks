@@ -35,10 +35,129 @@ const obj = [
 		"links": "http://www.cooker01.com/"
 	},
 	{
+		"type": "Funny",
+		"title": "Genius",
+		"links": "https://genius.com/",
+		"description": "Song Lyrics & Knowledge"
+	},
+	{
+		"type": "Toy",
+		"title": "ガシャポンワールド",
+		"links": "https://gashapon.jp/"
+	},
+	{
+		"type": "Bet",
+		"title": "贏家娛樂城",
+		"links": "https://www.iwin688.com.tw/"
+	},
+	{
+		"type": "Bet",
+		"title": "贏家娛樂城",
+		"links": "https://ebbgigb.wixsite.com/tb589"
+	},
+	{
+		"type": "Bet",
+		"title": "Wix.com",
+		"links": "https://www.wix.com/",
+		"description": "Free Website Builder | Create a Free Website"
+	},
+	{
 		"type": "Front End Developer",
-		"title": "trekhleb/state-of-thMoriohe-art-shitcode",
-		"links": "https://github.com/trekhleb/state-of-the-art-shitcode",
-		"description": "💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode"
+		"title": "Codecademy",
+		"links": "https://www.codecademy.com/",
+		"description": "Learn to Code - for Free"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "DigitalOcean",
+		"links": "https://www.digitalocean.com/",
+		"description": "The developer cloud"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "W3Bits",
+		"links": "https://w3bits.com/",
+		"description": "Web Development Tutorials"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "KeyCDN",
+		"links": "https://www.keycdn.com/",
+		"description": "Content delivery made easy"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Fade",
+		"links": "http://git.blivesta.com/animsition/fade/",
+		"description": "Animsition"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Codrops",
+		"links": "https://tympanus.net/codrops/",
+		"description": "Useful resources and inspiration for creative minds"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "TechBeacon",
+		"links": "https://techbeacon.com/app-dev-testing",
+		"description": "App Dev & Testing"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Scotch.io",
+		"links": "https://scotch.io/",
+		"description": "Advice you can trust"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Learn to Code With Me Blog",
+		"links": "https://learntocodewith.me/blog/",
+		"description": "Articles on Learning Tech Skills"
+	},
+	{
+		"type": "Media",
+		"title": "创业家",
+		"links": "http://www.chuangyejia.com/",
+		"description": "做中国领先的产业媒体"
+	},
+	{
+		"type": "Funny",
+		"title": "Marie Claire 美麗佳人",
+		"links": "https://www.marieclaire.com.tw/"
+	},
+	{
+		"type": "Funny",
+		"title": "CTWANT",
+		"links": "https://www.ctwant.com/"
+	},
+	{
+		"type": "Funny",
+		"title": "ReelRundown",
+		"links": "https://reelrundown.com/"
+	},
+	{
+		"type": "Funny",
+		"title": "Toments 找話題",
+		"links": "https://toments.com/"
+	},
+	{
+		"type": "Funny",
+		"title": "LoveToKnow",
+		"links": "https://www.lovetoknow.com/?time=1587714391824",
+		"description": "Advice you can trust"
+	},
+	{
+		"type": "Brand",
+		"title": "Dove USA",
+		"links": "https://www.dove.com/us/en/home.html",
+		"description": ""
+	},
+	{
+		"type": "Front End Developer",
+		"title": "airpair",
+		"links": "https://www.airpair.com/",
+		"description": "Software jobs && programming resources"
 	},
 	{
 		"type": "Front End Developer",
@@ -86,6 +205,12 @@ const obj = [
 		"title": "Michael Page",
 		"links": "https://www.michaelpage.com.tw/zh",
 		"description": "工作、求職建議和招聘服務 - 米高蒲志 - 台灣"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "trekhleb/state-of-thMoriohe-art-shitcode",
+		"links": "https://github.com/trekhleb/state-of-the-art-shitcode",
+		"description": "💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode"
 	},
 	{
 		"type": "Front End Developer",
@@ -307,6 +432,24 @@ const obj = [
     "links": "http://frontenddeveloperjob.com/",
 	  "description": "(remote & on site) & learn to be a front-end developer"
   },
+	{
+		"type": "Jobs",
+		"title": "PeoplePerHour.com",
+		"links": "https://www.peopleperhour.com/",
+		"description": "Hire Freelancers Online & Find Freelance Work - PeoplePerHour.com"
+	},
+	{
+		"type": "Jobs",
+		"title": "Guru",
+		"links": "https://www.guru.com/?Ref=login.aspx",
+		"description": "Guru - Hire Freelancers Online and Find Freelance Jobs Online"
+	},
+	{
+		"type": "Jobs",
+		"title": "面試趣",
+		"links": "https://interview.tw/",
+		"description": "找工作前的第一站"
+	},
 	{
 		"type": "Jobs",
 		"title": "Front End Remote Jobs",
@@ -531,6 +674,30 @@ const obj = [
   },
 	{
 		"type": "Front End Developer",
+		"title": "Appy Pie",
+		"links": "https://www.appypie.com/app-builder/appmaker",
+		"description": "Best No-Code Application Development Platform"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Exploring JS",
+		"links": "https://exploringjs.com/",
+		"description": "JavaScript books for programmers"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Coywolf",
+		"links": "https://www.coywolf.news/",
+		"description": "Marketing & Technology News by Coywolf"
+	},
+	{
+		"type": "Studio",
+		"title": "RFTB Creative Digital Agency ",
+		"links": "https://rftb.agency/",
+		"description": "Website Design | Fort Worth, TX"
+	},
+	{
+		"type": "Front End Developer",
 		"title": "ThatSoftwareDude.com",
 		"links": "https://www.thatsoftwaredude.com/"
 	},
@@ -549,6 +716,12 @@ const obj = [
     "title": "BU UP -Beauty Upgrade",
     "links": "https://beauty-upgrade.tw/"
   },
+	{
+		"type": "Funny",
+		"title": "淑女志 - 前沿时尚和娱乐综合资讯网站",
+		"links": "https://www.shunvzhi.com/",
+		"description": "Search All the Funny Memes & Meme Generator"
+	},
 	{
 		"type": "Funny",
 		"title": "Kickstarter",
