@@ -24,6 +24,21 @@ const obj = [
 		"title": "JavaScript for impatient programmers",
 		"links": "https://exploringjs.com/impatient-js/toc.html"
 	},
+	{
+		"type": "Front End Developer",
+		"title": "Front-End Front — Basically, front-end news",
+		"links": "https://frontendfront.com/"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "hey it's violet",
+		"links": "https://vgpena.github.io/"
+	},
+	{
+		"type": "Front End Developer",
+		"title": "Frontend Weekly",
+		"links": "https://frontendweekly.co/"
+	},
   {
     "type": "Front End Developer",
     "title": "airpair",
