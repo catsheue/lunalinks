@@ -1,6 +1,162 @@
 const obj = [
   {
     "type": "Front End Developer",
+    "title": "Easy Peasy",
+    "links": "https://easy-peasy.now.sh/",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Full stack open 2020",
+    "links": "https://fullstackopen.com/en",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Sanity",
+    "links": "https://www.sanity.io/",
+    "tech": "",
+    "description": "Build with Structured Content"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "webhint",
+    "links": "https://webhint.io/",
+    "tech": "",
+    "description": "the hinting engine for web best practices"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Vladimir Simonovski",
+    "links": "https://blog.vsimonovski.me/",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "SurveyMonkey API Developer Portal",
+    "links": "https://developer.surveymonkey.com/",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Josh W Comeau",
+    "links": "https://joshwcomeau.com/",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "InfoQ",
+    "links": "https://www.infoq.cn/topic/Front-end",
+    "tech": "",
+    "description": "前端_前端开发_web前端-InfoQ"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Anurag Hazra",
+    "links": "https://anuraghazra.github.io/",
+    "tech": "",
+    "description": "Creative Web Designer"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Slant",
+    "links": "https://www.framer.com/",
+    "tech": "lazy loading",
+    "description": "Choose the best"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "React Training",
+    "links": "https://reacttraining.com/",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "About Ruben Leija",
+    "links": "https://linguinecode.com/",
+    "tech": "",
+    "description": "JavaScript Engineer and Content Markertert"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Meteor",
+    "links": "https://www.meteor.com/install",
+    "description": "Install the Latest Version of Meteor"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "React Christmas",
+    "links": "https://react.christmas/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Chris Blakely",
+    "links": "https://www.chrisblakely.dev/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Areknawo",
+    "links": "https://areknawo.com/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Framer",
+    "links": "https://www.framer.com/",
+    "description": "The prototyping tool for teams"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "WebDevHub",
+    "links": "https://webdevhub.net/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "React Resources",
+    "links": "https://reactresources.com/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Frontend Armory",
+    "links": "https://frontarm.com/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Conventional Commits",
+    "links": "https://www.conventionalcommits.org/en/v1.0.0/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Simform",
+    "links": "https://www.simform.com/",
+    "description": "Software Development Company USA"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Upmostly",
+    "links": "https://upmostly.com/",
+    "description": "Learn React & JavaScript the Right Way"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "30 seconds of code",
+    "links": "https://www.30secondsofcode.org/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
     "title": "A Drip of JavaScript",
     "links": "http://adripofjavascript.com/"
   },
@@ -13,6 +169,48 @@ const obj = [
     "type": "Front End Developer",
     "title": "Latest ReactJS Examples",
     "links": "https://react.rocks/"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Devhints",
+    "links": "https://devhints.io/",
+    "description": "TL;DR for developer documentation"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Discover dev",
+    "links": "https://www.discoverdev.io/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Chase Ohlson",
+    "links": "https://chaseohlson.com/",
+    "description": "Freelance Web Developer in Los Angeles, CA"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Hashnode",
+    "links": "https://hashnode.com/",
+    "description": "Friendly and inclusive developer community"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "React School",
+    "links": "https://react.school/",
+    "description": "React School for Frontend Engineering | Courses and Tutorials"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "reactide.io",
+    "links": "http://reactide.io/",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "reactide.io",
+    "links": "http://reactide.io/",
+    "description": ""
   },
 	{
 		"type": "Front End Developer",
@@ -34,6 +232,11 @@ const obj = [
 		"title": "hey it's violet",
 		"links": "https://vgpena.github.io/"
 	},
+  {
+    "type": "Front End Developer",
+    "title": "DEV Community 👩‍💻👨‍💻",
+    "links": "https://dev.to/"
+  },
 	{
 		"type": "Front End Developer",
 		"title": "Frontend Weekly",
@@ -935,7 +1138,7 @@ const obj = [
     "type": "Front End Developer",
     "title": "Pusher",
     "links": "https://pusher.com/",
-    "description": " | Leader In Realtime Technologies"
+    "description": "Leader In Realtime Technologies"
   },
   {
     "type": "Front End Developer",
