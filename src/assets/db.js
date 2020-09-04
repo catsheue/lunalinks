@@ -1,6 +1,55 @@
 const obj = [
   {
     "type": "Front End Developer",
+    "title": "Stripe",
+    "links": "https://stripe.com/",
+    "tech": "",
+    "description": "Online payment processing for internet businesses"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "React Styleguidist",
+    "links": "https://react-styleguidist.js.org/",
+    "tech": "",
+    "description": "Isolated React component development environment with a living style guide | React Styleguidist"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Code Review Stack Exchange",
+    "links": "https://codereview.stackexchange.com/",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Automated Code Review Tool | Accelerate your code review process",
+    "links": "https://www.codegrip.tech/",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "W3Counter: Global Web Stats",
+    "links": "https://www.w3counter.com/globalstats.php",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "StatCounter Global Stats",
+    "links": "https://gs.statcounter.com/",
+    "tech": "",
+    "description": "Browser, OS, Search Engine including Mobile Usage Share"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "鍶科技",
+    "links": "https://srtechmedia.com/",
+    "tech": "",
+    "description": ""
+  },
+  {
+    "type": "Front End Developer",
     "title": "Easy Peasy",
     "links": "https://easy-peasy.now.sh/",
     "tech": "",
@@ -151,14 +200,74 @@ const obj = [
   },
   {
     "type": "Front End Developer",
+    "title": "Datadog",
+    "links": "https://www.datadoghq.com/",
+    "description": "Cloud Monitoring as a Service"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Inkoop",
+    "links": "https://www.inkoop.io/",
+    "description": "Custom Website & mobile App Development Company"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Elabor8",
+    "links": "https://elabor8.com.au/",
+    "description": "Agile Consulting | Training | Coaching"
+  },
+  {
+    "type": "Front End Developer",
     "title": "30 seconds of code",
     "links": "https://www.30secondsofcode.org/",
     "description": ""
   },
   {
     "type": "Front End Developer",
+    "title": "CKAN 2.7.3 documentation",
+    "links": "https://docs.ckan.org/en/ckan-2.7.3/contents.html#",
+    "description": "Full table of contents"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "React Styleguidist",
+    "links": "https://react-styleguidist.js.org/",
+    "description": "Isolated React component development environment with a living style guide"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "8base",
+    "links": "https://www.8base.com/",
+    "description": "Platform and Services for Web and Mobile Apps"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Write the Docs",
+    "links": "http://adripofjavascript.com/",
+    "description": "A beginner’s guide to writing documentation"
+  },
+  {
+    "type": "Front End Developer",
     "title": "A Drip of JavaScript",
-    "links": "http://adripofjavascript.com/"
+    "links": "http://adripofjavascript.com/",
+    "description": ""
+  },
+  {
+    "type": "Funny",
+    "title": "Yummyday美味日子",
+    "links": "https://www.yummyday.com.tw/"
+  },
+  {
+    "type": "Funny",
+    "title": "UC Berkeley Library",
+    "links": "https://www.lib.berkeley.edu/",
+    "description": ""
+  },
+  {
+    "type": "Funny",
+    "title": "Brainly.in",
+    "links": "https://brainly.in/",
+    "description": "For students. By students."
   },
   {
     "type": "Funny",
@@ -205,6 +314,12 @@ const obj = [
     "title": "reactide.io",
     "links": "http://reactide.io/",
     "description": ""
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Language Editing",
+    "links": "http://www.languageediting.com/",
+    "description": "Language Editing – English Editing and Proofreading Services"
   },
   {
     "type": "Front End Developer",
