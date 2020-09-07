@@ -102,7 +102,7 @@ const obj = [
     "title": "Vladimir Simonovski",
     "links": "https://blog.vsimonovski.me/",
     "tech": "",
-    "description": ""
+    "description": " "
   },
   {
     "type": "Front End Developer",
