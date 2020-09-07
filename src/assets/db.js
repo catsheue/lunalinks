@@ -25,7 +25,7 @@ const obj = [
     "title": "Stripe",
     "links": "https://stripe.com/",
     "tech": "",
-    "description": "Online payment processing for internet businesses"
+    "description": "Online payment processing for internet businesses "
   },
   {
     "type": "Front End Developer",
