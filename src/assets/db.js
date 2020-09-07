@@ -1,6 +1,13 @@
 const obj = [
   {
     "type": "Front End Developer",
+    "title": "Lokalise Blog",
+    "links": "https://lokalise.com/blog/",
+    "tech": "",
+    "description": "All about localization"
+  },
+  {
+    "type": "Front End Developer",
     "title": "Speedtest by Ookla",
     "links": "https://www.speedtest.net/",
     "tech": "",
