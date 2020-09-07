@@ -1,6 +1,13 @@
 const obj = [
   {
     "type": "Front End Developer",
+    "title": "Speedtest by Ookla",
+    "links": "https://www.speedtest.net/",
+    "tech": "",
+    "description": " The Global Broadband Speed Test"
+  },
+  {
+    "type": "Front End Developer",
     "title": "Stripe",
     "links": "https://stripe.com/",
     "tech": "",
