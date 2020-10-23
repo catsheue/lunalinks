@@ -1,10 +1,38 @@
 const obj = [
   {
     "type": "Front End Developer",
+    "title": "Time to Hack",
+    "links": "https://time2hack.com/",
+    "tech": "",
+    "description": "Frontend Programming in JavaScript, HTML & CSS ⚡️"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "Bram.us",
+    "links": "https://www.bram.us/",
+    "tech": "",
+    "description": "A rather geeky/technical weblog, est. 2001, by Bram(us) Van Damme"
+  },
+  {
+    "type": "Funny",
+    "title": "這裡才知道的日本流行情報",
+    "links": "https://www.japaholic.com/tw/",
+    "tech": "",
+    "description": "Japaholic"
+  },
+  {
+    "type": "Front End Developer",
     "title": "Lokalise Blog",
     "links": "https://lokalise.com/blog/",
     "tech": "",
     "description": "All about localization"
+  },
+  {
+    "type": "Design",
+    "title": "Prototypr",
+    "links": "https://prototypr.io/",
+    "tech": "",
+    "description": " The latest design and prototyping tools for mobile and desktop app design."
   },
   {
     "type": "Front End Developer",
@@ -1335,8 +1363,15 @@ const obj = [
   },
   {
     "type": "Front End Developer",
-    "title": "@nicoespeon's blog",
-    "links": "https://www.nicoespeon.com/"
+    "title": "devconnected",
+    "links": "https://www.nicoespeon.com/",
+    "description": "Software Engineering Articles, Guides & Tips"
+  },
+  {
+    "type": "Front End Developer",
+    "title": "applitools",
+    "links": "https://applitools.com/",
+    "description": "Automated Visual Testing with Visual AI"
   },
   {
     "type": "Funny",
